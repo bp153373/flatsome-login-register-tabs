@@ -1,0 +1,37 @@
+.account-container #customer_login .pb-0{
+	position:absolute;
+	background:#fff;
+	height: 300px;
+}
+.lightbox-content .lightbox-inner{
+	padding: 0 0 20px;
+}
+.lightbox-content .row:not(.row-collapse){
+	margin-left: 0;
+	margin-right: 0;
+}
+.login-tabs{
+	margin-bottom: 10px;
+}
+.login-tabs .col{
+	text-align: center;
+	border: 2px solid #555;
+}
+.login-tabs .login, .login-tabs .register{
+	padding-bottom: 0;
+}
+.login-tabs .login a, .login-tabs .register a{
+	line-height: 80px;
+}
+.active{
+	display: block;
+}
+.inactive{
+	display: none;
+}
+.active-tab{
+	background: #fff;
+}
+.inactive-tab{
+	background: #ddd;
+}
