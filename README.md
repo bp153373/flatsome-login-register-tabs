@@ -1,0 +1,1 @@
+# flatsome-login-register-tabs
